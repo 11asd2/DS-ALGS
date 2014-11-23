@@ -1,0 +1,1 @@
+One of my first implementations of a data structure in the C. This is a circular doubly linked list.

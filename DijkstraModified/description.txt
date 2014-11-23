@@ -1,0 +1,2 @@
+modified version of dijkstra's algorithm to find the fastest way to travel from city A to city B, given flight arrival and departure constraints.
+Cities are linked as a graph.
